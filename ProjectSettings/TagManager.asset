@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - River1
+  - River2
+  - WaterTrigger
+  - WaterLadder
+  - Head
+  - Body
+  - Nose
+  - GameManager
+  - TopBoundry
+  - LeftBoundry
+  - RightBoundry
+  - WelcomeText
+  - StartButton
+  - NumberOfLivesText
+  - GameOverText
+  - PlayAgainButton
+  - QuitButton
+  - GameScreen
+  - WelcomeScreen
+  - GameOverScreen
+  - Key
+  - PointLight
+  - GlobalLight
+  - Joystick
+  - JumpButton
+  - UI_BackgroundImage
+  - KeyAssetImage
+  - WellDoneText
+  - SceneBackground
+  - SafeLight
+  - SceneContainer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI_Front
+  - Player
+  - Front
+  - SwingingPlatforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 889197889
+    locked: 0
+  - name: Unlit
+    uniqueID: 3965694123
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3388512761
+    locked: 0
+  - name: Foreground
+    uniqueID: 3410209475
+    locked: 0
